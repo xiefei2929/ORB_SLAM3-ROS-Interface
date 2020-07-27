@@ -1,5 +1,7 @@
 # ORB_SLAM3-ROS-Interface
-Two ROS interfaces Mono_inertial and Stereo_inertial were added to the ORB-SLAM3 . Modified the loading vocabulary in a faster binary way.
+Two ROS interfaces Mono_inertial and Stereo_inertial were added to the ORB-SLAM3. Modified the loading vocabulary in a faster binary way.
+
+增加了两个ROS接口，单目IMU和双目IMU，替换了词典为二进制格式，加载速度更快。
 
 Command
 
